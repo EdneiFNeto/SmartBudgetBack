@@ -7,6 +7,8 @@ API backend construída integralmente com auxílio de IA (100% gerada por inteli
 - npm 10+
 - Banco PostgreSQL disponível e string de conexão via `DATABASE_URL`
 
+> **Dependência externa:** para subir rapidamente o banco PostgreSQL local, utilize o repositório companion `SmartBudgetDocker`, que fornece Docker Compose e scripts de inicialização prontos. Consulte https://github.com/EdneiFNeto/SmartBudgetDocker para instruções detalhadas.
+
 ## Configuração
 1. Instale dependências:
    ```bash
